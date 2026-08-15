@@ -1,0 +1,1 @@
+rootProject.name = "QABatch5-Java"
